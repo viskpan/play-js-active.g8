@@ -3,7 +3,7 @@
 | [![Dependencies UpToDate](https://ci.reinvent-software.de/buildStatus/icon?job=play-js-active-template-DependencyCheck)](https://ci.reinvent-software.de/job/play-js-active-template-DependencyCheck) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 Play JS Active
-=================
+==================
 
 # Abstract
 A java [Play](https://www.playframework.com/) 2.6.2 [Giter8](http://www.foundweekends.org/giter8/) template with JsFrameworks.
